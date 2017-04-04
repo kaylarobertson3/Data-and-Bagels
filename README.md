@@ -5,5 +5,7 @@ Some digital journalism tips and tricks (including some learned at NICAR17) for 
 ![bagel](https://media.giphy.com/media/ORYgct7M6YynC/giphy.gif =50x)
 
 
+<img src="https://media.giphy.com/media/CFkeus3K7NXBS/giphy.gif" style="width: 25px;"/>
+<img src="https://media.giphy.com/media/ORYgct7M6YynC/giphy.gif" style="width: 25px;"/>
 
 
