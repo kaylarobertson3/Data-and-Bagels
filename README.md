@@ -50,7 +50,15 @@ Kelsey will tell you how to scrape the web! Whoo
 Infographics are cool and good. Why? Infographics make stories more believable, more shareable, and more digestible for audiences. How your story is presented online is everything. Here are some tools that reporters (or anyone) can use to make their stories better — no coding or design knowledge involved. Here's a few starter tools:
 
 ## [Datawrapper](datawrapper.de)
-Datawrapper notes from Kelsey's nicar talk 
+
+* ABOUT
+Datawrapper is a simple chart and map making tool created by journalists and Germany. It's very user-friendly, mobile responsive and customizable according to your publication's style guide. It's also important to visualize any data you have, even if a chart isn't necessary for your story. Overall data literacy enhances a reporter’s bullshit detector. Additionally, by having a designer create this (very simple) chart for you, you’ve outsourced your story and possibly missed something important. So let's make a graph.
+  
+* TUTORIAL
+  * First, find the file called POTUSTWEETS.csv in the folder you downloaded.
+  * Clean data: only use numbers —  no dollar signs, percent signs or commas. Datawrapper will read this as a string! Append and prepend your data easily within Datawrapper after you’ve uploaded it.
+  * Note section is great for transparency, esp. If you have a pie chart that adds up to more than 100%. Explain the study.
+
 
 ## [Knightlab tools](https://knightlab.northwestern.edu/)
 Knightlab is a leading innovator in journalism technology, and makes a lot of opensource (free) resources for journalists. There are three main tools which are very usable, responsive and easy to learn. Let's look at how to make an interactive timeline:
