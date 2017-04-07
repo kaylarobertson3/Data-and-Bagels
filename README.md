@@ -141,15 +141,22 @@ Knightlab is a leading innovator in journalism technology, and makes a lot of op
 
 * Let's add more content and a little styling.
 
-* Put <strong> around some words </strong> and they become bold!
+```
+  <strong> around some words </strong> and they become bold!
+
+```
 
 * Adding images:The img tag adds images onto the page. Alt text is important for accessiblity (readers that use a screen reader) and for navigation if your page has trouble loading. 
-  * <img scr="pic1.gif" alt="pic of data">
+
+  * ```<img scr="pic1.gif" alt="pic of data">
   * <img src=”jschool.jpeg” alt=”University of Montana School of Journalism” height=”50” width=”50”>
+  
+```
   
 * Adding links
   * Under the image, create a hyperlink that goes to the J-school website using the <a href> tag. For example: 
-<a href=”https://jour.umt.edu/”>Click here to visit the UMT J-School Website.</a>
+``` <a href=”https://jour.umt.edu/”>Click here to visit the UMT J-School Website.</a> 
+```
 
 *More 
   * iFrame
