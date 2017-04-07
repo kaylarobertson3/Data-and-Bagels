@@ -196,7 +196,8 @@ Knightlab is a leading innovator in journalism technology, and makes a lot of op
 * More cool stuff:
   * iFrames: For example, the timeline iframe code we generated earlier can be dropped into the body of an html document and will show up! 
   * CSS
-    * Link to your stylesheet (called style.css) in the head of the document using "
+    * Link to your stylesheet (called style.css) in the head of the document using "<link rel="stylesheet" type="text/css" href="mystyle.css">" 
+
     * styling an H1
     * Linking to another page
     
