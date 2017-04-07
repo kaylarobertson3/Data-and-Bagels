@@ -1,15 +1,16 @@
 # Data And Bagels
 Some digital journalism tips and tricks (including some learned at NICAR17) for a quick talk at the University of Montana Journalism School 
 
-## First off: Download [this zip file](link.com). If you want to stick around until the end for some very basic HTML / CSS 
+## First off: Download [this zip file](link.com). If you want to stick around until the end for some very basic HTML / CSS, download the (Sublime Text Editor)[https://www.sublimetext.com/].
 
 ![data](https://media.giphy.com/media/CFkeus3K7NXBS/giphy.gif) ![bagel](https://media.giphy.com/media/ORYgct7M6YynC/giphy.gif)
 
 # A little about us
-We are cooooool. 
+
+Claire, Kelsey, [Kayla](kaylarobertsondesign.com). 
 
 # Data journalism glossary
-Terms to know, or at least pretend to know and reference during job interviews.
+Terms to know. Or, at least pretend to know and reference during job interviews.
 
 1. term one
   * term one def
@@ -21,7 +22,7 @@ Terms to know, or at least pretend to know and reference during job interviews.
   * term three def
   
 # So where do I find this "data" stuff?
-Here's a few solid places. Bookmark these for sources for stories, or for story ideas! Look for outliers.
+Here's a few solid resources. Bookmark these to use as sources for stories, or search these for story ideas (look for outliers).
 
 ### [Data.gov](https://www.data.gov/)
 All of the U.S. government’s open data. Nice, easy to use website. If you’re writing a story about climate change, you can easily search by that + Montana or U.S. to see what kind of data you need. From there, you download. 
@@ -52,29 +53,32 @@ Infographics are cool and good. Why? Infographics make stories more believable, 
 Datawrapper notes from Kelsey's nicar talk 
 
 ## Knightlab tools
-Knightlab is a leading innovator in journalism technology, and makes some cool stuff. Check out all of it at [Knightlab's website](https://knightlab.northwestern.edu). There's three main tools which are all very usable, responsive, neat and stuff. Let's look at how to make a timeline:
+Knightlab is a leading innovator in journalism technology, and makes a lot of opensource (free) resources for journalists. Check out all of it at [Knightlab's website](https://knightlab.northwestern.edu). There are three main tools which are very usable, responsive and easy to learn. Let's look at how to make an interactive timeline:
 
 ### [Timeline.js](https://timeline.knightlab.com/) 
 * What it is: Open source tool for making interactive, responsive timelines.
   * Cool because: Can import content from Twitter, Flickr, YouTube, Vimeo, Google Maps, Wikipedia, SoundCloud. Responsive on all devices, pretty easy to use. 
 * How to do it:
-  * Uses google sheets. Click here to get the template (all of this info is available at http://timeline.knightlab.com). Click Make a Timeline. Click Make a Copy.
+  * Timeline.js uses Google Sheets. [Click here to get the template](http://timeline.knightlab.com/#make) and follow along.
+     * Click Make a Timeline. Click Make a Copy. *important: Don't change the column headers, don't remove any columns, and don't leave any blank rows in your spreadsheet.* 
+     
+  * It may look daunting, but all the hard Excel work has been done for you. Just fill in the columns with your information. I’ve taken the data Kelsey scraped (POTUS tweets from March). I’ll do the last few lines to show you what I did. (Feel free to make your timeline based on anything — fake dates, your life events, ect. for). 
   
-*important: Don't change the column headers, don't remove any columns, and don't leave any blank rows in your spreadsheet.* 
-  * It may look daunting, but all the hard Excel work has been done for you. Basically just fill in the columns with your information. I’ve taken the data Kelsey scraped. Basically, it’s a lot of copying and pasting.  I’ll do the last few lines to show you what I did.
-3. Add date as separate columns for day, month, time. Add a headline for the slide and add your text. Options: Links to media (must copy image address for photos. Must be hosted somewhere online) Add soundclous embed codes, ect. 
-4. Each downward row (1, 2, 3, 4) will be a different ‘slide’ with a different headline and visual and date.
-5. When you’re done: File, publish to the Web. Click OK. Yes, you are sure. 
-6. Now, copy the URL it gives you
-7. To generate the timeline: go back to Timeline.js website (https://timeline.knightlab.com/#make). Paste that code into step 3. 
-8. To publish this on your site (CMS like blox, wordpress, ect.) Copy the iFrame. 
+  * Input each day, month and time into separate columns. Add a headline for the slide and add your body text. Options: Links to media (must copy image address for photos. Must be hosted somewhere online) This is also where you add Soundclouds, embed codes, ect. 
+  * Each downward row (1, 2, 3, 4) will be a different ‘slide’ with a different headline and visual and date.
+  * When you’re done: File, publish to the Web. Click OK. Yes, you are sure. 
+  * Now, copy the URL it gives you.
+  * To generate the timeline, go back to Timeline.js website (https://timeline.knightlab.com/#make). Paste the code you copied into step 3. 
+  * Here you can preview, change a few settings, and grab the iframe code to publish to your site!
 
 ## So much more you can do with data
- * [DataViz Catalogue](http://datavizcatalogue.com/) — can search by both the type of chart or by function of what you want to show. Then shows you websites and tools of how to make them! Nice. 
- * RAW Graphics 
+ * [DataViz Catalogue](http://datavizcatalogue.com/) — A resources that lets you search by both the type of chart and by function of what you want to show based on your dadta. Then it recomends websites and tools of how to make them, and tips on what kind of data fits best. Nice. 
+ 
+ * [RAW Graphics](http://rawgraphs.io/) — another cool infographic-generator to check out. 
+ 
  * [Here's a full list of opensource resources](http://journocode.com/data-journalism-tools/)
 
-# Robots? What? 
+# Bots 
 ![chatbot](https://media.giphy.com/media/NHIecaiSc7YjK/giphy.gif)
 
 # HTML/CSS: Or, how do these things get published?
