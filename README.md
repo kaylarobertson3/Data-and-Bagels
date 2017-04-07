@@ -82,6 +82,11 @@ The file types PDF and Excel are often where the good data is. To find these:
 
 * So today I’ll show you a quick demo about how to scrape Twitter, up to 3200 tweets. [See the the original documentation on Github](https://github.com/lamthuyvo/social-media-data-scripts) to follow along on your own computer or to use this tool in the future. For the sake of time, I’m going to skip over a few of the beginning steps and show how you how to run the script once you have your computer set up correctly. 
 
+* Go to https://apps.twitter.com/. You need to make an "application" to be allowed to scrape someone's tweets, so it knows who is doing it. 
+
+* Enter the information in the secrets.py file in Sublime text.
+
+
 # Ok, so I have this data. What can I do with it?
 Infographics are cool and good. Why? Infographics make stories more believable, more shareable, and more digestible for audiences. How your story is presented online is everything. Here are some tools that reporters (or anyone) can use to make their stories better — no coding or design knowledge involved. Here's a few starter tools:
 
