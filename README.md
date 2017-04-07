@@ -17,27 +17,14 @@ Some digital journalism tips and tricks (including some learned at NICAR17) for 
 3. term two
   * term three def
   
-  4. term two
-  * term three def 
-  
-  5. term two
-  * term three def 
-  
-  6. term two
-  * term three def 
-  
-  7. term two
-  * term three def 
-  
-  8. term two
-  * term three def 
-  
-  9. term two
-  * term three def 
-  
-  10. term two
-  * term three def 
   
   
+  
+# So where do I find this "data"?
+## Here's a few solid places. Bookmark these for sources for stories, or for story ideas!
+
+* One
+* Two
+* Three
 
 
