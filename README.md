@@ -12,8 +12,7 @@ Some digital journalism tips and tricks (including some learned at NICAR17) for 
 # Data journalism glossary
 Terms to know. Or, at least pretend to know and reference during job interviews.
 
-1. Open Source:
-  * Open source refers to a philosophy and a means of developing and licensing software and other copyrighted works so that others are free to inspect, use and adapt the original source material. Promotes collaboration and iterative software development. Examples: R, GitHub, Google, IBM. 
+ * **Open Source** Open source refers to a philosophy and a means of developing and licensing software and other copyrighted works so that others are free to inspect, use and adapt the original source material. Promotes collaboration and iterative software development. Examples: R, GitHub, Google, IBM. 
 
 * **iFrame** An HTML tag that allows for one web page to be wholly included inside another; it is a popular way to create embeddable interactive features. Iframes are usually constructed via JavaScript as a way around web browsers' security features, which try to prevent JavaScript on one page from quickly talking to JavaScript on an external page. Many security breaches have been designed using iframes. For example: embedding an Instagram post or a Google calendar in a news article on a website. Need the iFrame code.
 
@@ -121,6 +120,41 @@ Knightlab is a leading innovator in journalism technology, and makes a lot of op
 ![chatbot](https://media.giphy.com/media/NHIecaiSc7YjK/giphy.gif)
 
 # HTML/CSS: Or, how do these things get published?
-Remember that .zip folder we downloaded at the beginning?
+1. Remember that .zip folder we downloaded at the beginning? Extact the folder called "FirstHTML" and put it somewhere easily accessible, like on your dekstop. 
 
-* Want more? [W3Schools](https://www.w3schools.com/) Is a leading web resource with how-tos on just about everything web design.
+2. Open load Sublime Text Editor (command + Space — search Sublime). Why? It’s Opensource, easy to use, free (just click “no” if they want you to donate), widely used by journo developers. Or, if you already have a text editor like Atom or Brackets, that’s fine. Need a text editor like this — DON’T use Microsoft word or TextEdit. 
+
+3. File — open. Open the document called "index.html". The Index file is where all of your content lives. You can't have a webpage without a home HTML files, typically named index.
+
+2.	What's in this file?
+ * Heading stuff
+ * <Head>
+   * explain the head section
+   * let's add a title. This is what shows up at the titel of the tab in your browser. in the space between <title> and </title>, write something like "My First HTML Page".
+ * <body>
+   * this is where all of the content that you see on a webpage goes. Right now it's blank. If you go back to the folder on your desktop and double click on index.html, it will open it in your browser. Nothing is here. That's ok. Let's add some stuff.
+ * Back in Sublime:
+   * <h1>
+   * <p>
+* Save your document (file, save). Go back to your browser and refresh your "My First HTML Page".
+
+* Let's add more content and a little styling.
+
+* Put <strong> around some words </strong> and they become bold!
+
+* Adding images:The img tag adds images onto the page. Alt text is important for accessiblity (readers that use a screen reader) and for navigation if your page has trouble loading. 
+  * <img scr="pic1.gif" alt="pic of data">
+  * <img src=”jschool.jpeg” alt=”University of Montana School of Journalism” height=”50” width=”50”>
+  
+* Adding links
+  * Under the image, create a hyperlink that goes to the J-school website using the <a href> tag. For example: 
+<a href=”https://jour.umt.edu/”>Click here to visit the UMT J-School Website.</a>
+
+*More 
+  * iFrame
+  * CSS
+    * Linking in head
+    * styling an H1
+    * Linking to another page
+    
+* **Keep in mind**: You don’t have to memorize any of this — you can always copy from [W3Schools](https://www.w3schools.com/html/default.asp). It is a leading web resource with how-tos on just about everything web design.
