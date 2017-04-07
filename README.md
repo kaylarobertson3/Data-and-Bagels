@@ -12,7 +12,7 @@ Some digital journalism tips and tricks (including some learned at NICAR17) for 
   * term one def
   
 2. term two
-..* term two def 
+** term two def 
   
 3. term two
   * term three def
@@ -37,13 +37,6 @@ Some digital journalism tips and tricks (including some learned at NICAR17) for 
   
   10. term two
   * term three def 
-  
-  1. First ordered list item
-2. Another item
-⋅⋅* Unordered sub-list. 
-1. Actual numbers don't matter, just that it's a number
-⋅⋅1. Ordered sub-list
-4. And another item.
   
   
 
