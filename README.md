@@ -50,7 +50,7 @@ Terms to know. Or, at least pretend to know and reference during job interviews.
   
 * **Data journalism** The ability to work with data is an increasingly important part of a journalist’s armoury. Skills needed to research and tell a good data-based story include finding relevant data, data cleaning, exploring or mining the data to understand what story it is telling, and creating good visualisations
 
-* **Github**: Github definition. Open source ...
+* **Github**: a central depository system that allows users to store, download documents/code, revise code/documents and re-upload with changes. Github keeps the version online current by integrating new revisions and showing the changes made. It also allows anyone to download (open-source) and is super useful when collaborating on code. Github is predominately used by developers, but could really store any form of document.
   
 # So where do I find this "data" stuff?
 Here's a few solid resources. Bookmark these to use as sources for stories, or search these for story ideas (look for outliers).
@@ -148,17 +148,20 @@ Knightlab is a leading innovator in journalism technology, and makes a lot of op
 
 * Adding images:The img tag adds images onto the page. Alt text is important for accessiblity (readers that use a screen reader) and for navigation if your page has trouble loading. 
 
-  * ```<img scr="pic1.gif" alt="pic of data">
+  * ```
+  <img scr="pic1.gif" alt="pic of data">
   * <img src=”jschool.jpeg” alt=”University of Montana School of Journalism” height=”50” width=”50”>
   
 ```
-  
+ ```  
 * Adding links
   * Under the image, create a hyperlink that goes to the J-school website using the <a href> tag. For example: 
-``` <a href=”https://jour.umt.edu/”>Click here to visit the UMT J-School Website.</a> 
+
+<a href=”https://jour.umt.edu/”>Click here to visit the UMT J-School Website.</a> 
+
 ```
 
-*More 
+* More 
   * iFrame
   * CSS
     * Linking in head
