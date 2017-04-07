@@ -12,7 +12,7 @@ Some digital journalism tips and tricks (including some learned at NICAR17) for 
   * term one def
   
 2. term two
-  * term two def 
+..* term two def 
   
 3. term two
   * term three def
