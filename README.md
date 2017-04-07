@@ -7,7 +7,7 @@ Some digital journalism tips and tricks (including some learned at NICAR17) for 
 
 # A little about us
 
-[Claire](https://www.linkedin.com/in/cchandler1/), [Kelsey](http://kelseyjohnsondesign.com/), [Kayla](www.kaylarobertsondesign.com).
+[Claire Chandler](https://www.linkedin.com/in/cchandler1/), [Kelsey Johnson](http://kelseyjohnsondesign.com/), [Kayla Robertson](http://kaylarobertsondesign.com/).
 
 # Data journalism glossary
 Terms to know. Or, at least pretend to know and reference during job interviews.
