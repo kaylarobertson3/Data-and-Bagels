@@ -19,7 +19,6 @@ Terms to know, or at least pretent to know and reference in interviews
   
   
   
-  
 # So where do I find this "data"?
 Here's a few solid places. Bookmark these for sources for stories, or for story ideas! Look for outliers.
 
@@ -38,8 +37,21 @@ Can help you visualize a dataset. Kind of like Google search, it searches open d
 ### General searching tips
 The File types PDF and Excel are often where the good data is.
 * Google search: meth data filetype:pdf
-** Searches only PDFS with those keywords 
+  * Searches only PDFS with those keywords 
 * Google search “montana meth project” filetype:xls 
-** Searches only Excel files with those exact terms
+  * Searches only Excel files with those exact terms
+  
+# Making your own data
+Kelsey will tell you how to scrape the web! 
+
+# Ok,so I have this data. What can I do with it?
+## Datawrapper
+## Knightlab tools
+## So much more
+ * [DataViz Catalogue](http://datavizcatalogue.com/) — can search by both the type of chart or by function of what you want to show. Then shows you websites and tools of how to make them! Nice. 
+
+# Robots? 
+![chatbot](https://media.giphy.com/media/NHIecaiSc7YjK/giphy.gif)
+
 
 
