@@ -9,13 +9,35 @@ Some digital journalism tips and tricks (including some learned at NICAR17) for 
 ## Terms to know, or at least pretent to know and reference in interviews
 
 1. term one
-  *term one def
+  * term one def
   
 2. term two
   * term two def 
   
 3. term two
+  * term three def
+  
+  4. term two
   * term three def 
+  
+  5. term two
+  * term three def 
+  
+  6. term two
+  * term three def 
+  
+  7. term two
+  * term three def 
+  
+  8. term two
+  * term three def 
+  
+  9. term two
+  * term three def 
+  
+  10. term two
+  * term three def 
+  
   
 
 
