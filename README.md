@@ -1,7 +1,7 @@
 # Data And Bagels
 Some digital journalism tips and tricks (including some learned at NICAR17) for a quick talk at the University of Montana Journalism School 
 
-## First off: Download [this zip file](link.com). If you want to stick around until the end for some very basic HTML / CSS, download the [Sublime Text Editor](https://www.sublimetext.com/).
+#### First off: Download [this zip file](link.com). If you want to stick around until the end for some very basic HTML / CSS, download the [Sublime Text Editor](https://www.sublimetext.com/).
 
 ![data](https://media.giphy.com/media/CFkeus3K7NXBS/giphy.gif) ![bagel](https://media.giphy.com/media/ORYgct7M6YynC/giphy.gif)
 
@@ -52,8 +52,8 @@ Infographics are cool and good. Why? Infographics make stories more believable, 
 ## [Datawrapper](datawrapper.de)
 Datawrapper notes from Kelsey's nicar talk 
 
-## Knightlab tools
-Knightlab is a leading innovator in journalism technology, and makes a lot of opensource (free) resources for journalists. Check out all of it at [Knightlab's website](https://knightlab.northwestern.edu). There are three main tools which are very usable, responsive and easy to learn. Let's look at how to make an interactive timeline:
+## [Knightlab tools](https://knightlab.northwestern.edu/)
+Knightlab is a leading innovator in journalism technology, and makes a lot of opensource (free) resources for journalists. There are three main tools which are very usable, responsive and easy to learn. Let's look at how to make an interactive timeline:
 
 ### [Timeline.js](https://timeline.knightlab.com/) 
 * What it is: Open source tool for making interactive, responsive timelines.
@@ -71,12 +71,12 @@ Knightlab is a leading innovator in journalism technology, and makes a lot of op
   * To generate the timeline, go back to Timeline.js website (https://timeline.knightlab.com/#make). Paste the code you copied into step 3. 
   * Here you can preview, change a few settings, and grab the iframe code to publish to your site!
 
-## So much more you can do with data
+## So much more you can do with data — bookmark these: 
  * [DataViz Catalogue](http://datavizcatalogue.com/) — A resources that lets you search by both the type of chart and by function of what you want to show based on your dadta. Then it recomends websites and tools of how to make them, and tips on what kind of data fits best. Nice. 
  
  * [RAW Graphics](http://rawgraphs.io/) — another cool infographic-generator to check out. 
  
- * [Here's a full list of opensource resources](http://journocode.com/data-journalism-tools/)
+ * [Here's a full list of opensource resources from JournoCode](http://journocode.com/data-journalism-tools/)
 
 # Bots 
 ![chatbot](https://media.giphy.com/media/NHIecaiSc7YjK/giphy.gif)
