@@ -45,10 +45,10 @@ The File types PDF and Excel are often where the good data is.
 # Making your own data
 Kelsey will tell you how to scrape the web! 
 
-# Ok,so I have this data. What can I do with it?
+# Ok, so I have this data. What can I do with it?
 Infographics are cool and good. Why? Infographics make stories more believable, make them more shareable, and more digestible for audiences. How your story is presented online is everything. Here are some tools that reporters (or anyone) can use to make their stories better — no coding or design knowledge involved. Here's a few starter tools:
 
-## Datawrapper
+## [Datawrapper](datawrapper.de)
 Datawrapper notes from Kelsey's nicar talk 
 
 ## Knightlab tools
@@ -59,6 +59,8 @@ Knightlab is a leading innovator in journalism technology, and makes some cool s
 
 # Robots? 
 ![chatbot](https://media.giphy.com/media/NHIecaiSc7YjK/giphy.gif)
+
+# HTML!!!!
 
 
 
