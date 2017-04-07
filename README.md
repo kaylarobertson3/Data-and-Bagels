@@ -47,6 +47,7 @@ Terms to know. Or, at least pretend to know and reference during job interviews.
   * **Microsoft Excel**- a software that has an easy to use interface allowing people to edit and organize data into meaningful patterns.
   
   * **JSON (JavaScript Object Notation)**: an easy way to store data. Commonly used to pass info between applications.
+  
 * **Data journalism** The ability to work with data is an increasingly important part of a journalist’s armoury. Skills needed to research and tell a good data-based story include finding relevant data, data cleaning, exploring or mining the data to understand what story it is telling, and creating good visualisations
 
 * **Github**: Github definition. Open source ...
