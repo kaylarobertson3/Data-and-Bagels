@@ -7,19 +7,38 @@ Some digital journalism tips and tricks (including some learned at NICAR17) for 
 
 # A little about us
 
-Claire, Kelsey, [Kayla](kaylarobertsondesign.com). 
+Claire, Kelsey, [Kayla](www.kaylarobertsondesign.com).
 
 # Data journalism glossary
 Terms to know. Or, at least pretend to know and reference during job interviews.
 
-1. term one
-  * term one def
-  
-2. term two
-* term two def 
-  
-3. term two
-  * term three def
+1. Open Source:
+  * Open source refers to a philosophy and a means of developing and licensing software and other copyrighted works so that others are free to inspect, use and adapt the original source material. Promotes collaboration and iterative software development. Examples: R, GitHub, Google, IBM. 
+
+* *iFrame* An HTML tag that allows for one web page to be wholly included inside another; it is a popular way to create embeddable interactive features. Iframes are usually constructed via JavaScript as a way around web browsers' security features, which try to prevent JavaScript on one page from quickly talking to JavaScript on an external page. Many security breaches have been designed using iframes. For example: embedding an Instagram post or a Google calendar in a news article on a website. Need the iFrame code.
+
+* *Web Scraping*: extracting data from a website. Instead of copying and pasting info from a website, you can use software to copy the data automatically and either put it in a database/spreadsheet or save it to your computer. Plus you can get a lot more info than what meets the eye. For example: scraping Trump’s tweets off of Twitter. You could manually copy and paste each Tweet, a simple line of code can take all of them and even more info, such as IP address etc.
+
+API: The way in which objects (could be software, an application or a piece of an application) talks to a different application/piece of application/software. So, let's say you want to access Google calendar. You open up your browser (a piece of software) and ask it to bring up Google. The way in which your software asks Google calendar to appear on your browser is an API. Google’s serve in turn replies to you browser, sending data and functionality through an API.
+Data story: a story that uses data- either a statistic or graph/trend as a source instead of a person. It is learning to make data into a source in a story.
+Back End: The backend usually consists of three parts: a server, an application, and a database. If you book a flight or buy concert tickets, you usually open a website and interact with the frontend. Once you’ve entered that information, the application stores it in a database that was created on a server. For sake of ease, just think about a database as a giant Excel spreadsheet on your computer, but your computer (server) is stored somewhere in Arizona.
+R: A statistical, open-source programming language
+Python: A sophisticated computer language that is commonly used for Internet applications. Designed to be a very readable language, it is named after Monty Python. It first appeared in 1991 and was originally created by Guido van Rossum, a Dutch computer programmer who now works at Google. Python files generally end in .py. 
+Ruby: An increasingly popular programming language known for being powerful yet easy to write with- open-source
+Front End: When we discuss the “frontend” of the web, what we’re really talking about is the part of the web that you can see and interact with. The frontend usually consists of two parts: the web design and front end web development.
+HTML: The dominant formatting language used on the World Wide Web to publish text, images and other elements. HTML uses pairs of opening and closing tags (also known as elements), such as <title> and </title>; each pair assigns meaning to the text that appears between them. HTML can be considered code, but it is not a programming language; it's a markup language, which is a separate beast. Creates the structure of how the text is laid out.
+CSS: CSS files determine the style of a website, like the fonts, the colors, the arrangement of items or even animations. CSS modifies the design and display of HTML elements.
+Javascript: JavaScript is a programming language used to make web pages interactive. It runs on your visitor's computer and doesn't require constant downloads from your website. JavaScript is often used to create polls and quizzes.
+ D3: D3 is a library in Javascript that allows coders to make visualizations based on data in web browsers.
+Infographic : a way to visualize statistics or information. Could be in the form of a bar chart, a map, different sized circles etc.
+Data file types: most tools and generators work with these file types. 
+CSV: a comma separated value- a simple data format that stores data in text documents and uses commas to delineate between values.
+Microsoft Excel- a software that has an easy to use interface allowing people to edit and organize data into meaningful patterns.
+JSON (JavaScript Object Notation): an easy way to store data. Commonly used to pass info between applications.
+Data journalism
+The ability to work with data is an increasingly important part of a journalist’s armoury. Skills needed to research and tell a good data-based story include finding relevant data, data cleaning, exploring or mining the data to understand what story it is telling, and creating good visualisations
+Github 
+Github definition. Open source ...
   
 # So where do I find this "data" stuff?
 Here's a few solid resources. Bookmark these to use as sources for stories, or search these for story ideas (look for outliers).
