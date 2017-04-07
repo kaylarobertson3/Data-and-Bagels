@@ -75,7 +75,12 @@ The file types PDF and Excel are often where the good data is. To find these:
   * Searches only Excel files with those exact terms
   
 # Making your own data
-Kelsey will tell you how to scrape the web! Whoo
+
+* Scraping social media is a great way to compile your own datasets. There are tons of stories that can be pulled from social media that we might not find without scraping the web.
+  * https://blog.datastories.com/blog/reddit-front-page
+  * http://www.trumptwitterarchive.com/
+
+* So today I’ll show you a quick demo about how to scrape Twitter, up to 3200 tweets. [See the the original documentation on Github](https://github.com/lamthuyvo/social-media-data-scripts) to follow along on your own computer or to use this tool in the future. For the sake of time, I’m going to skip over a few of the beginning steps and show how you how to run the script once you have your computer set up correctly. 
 
 # Ok, so I have this data. What can I do with it?
 Infographics are cool and good. Why? Infographics make stories more believable, more shareable, and more digestible for audiences. How your story is presented online is everything. Here are some tools that reporters (or anyone) can use to make their stories better — no coding or design knowledge involved. Here's a few starter tools:
@@ -120,6 +125,30 @@ Knightlab is a leading innovator in journalism technology, and makes a lot of op
 # Bots 
 ![chatbot](https://media.giphy.com/media/NHIecaiSc7YjK/giphy.gif)
 
+* Bots: Short for “web robot.” An automated application that sends automated  tasks (scripts, messages or texts) over the internet. May be used with “chat apps” such as Facebook messenger or Slack.
+
+* Example: https://botlist.co/bots/filter?category=&platform=13&order=date&page=3
+
+* The goal is to create a friendly robot to interact with customers or readers in a way that empathizes with the human condition.
+“We think that people are going to start projecting their expectations of how human interactions work onto bots," he said. "Just like they do with pets. They know the cat can’t understand what they’re saying, but it’s almost like you can’t help yourself because you have an emotional connection with it. We think it’s going to be the same with bots,” Poncho CEO Sam Mandel.
+
+* Poncho example
+
+* How news orgs are using bots:  
+  * Higher engagement- by making news a conversation and tailored to each individual based on their questions, news orgs can generate higher engagement.
+  * Audience development: Chat bots allow news orgs to participate on a different, more personal platform.
+  
+[News chatbots](http://bloximages.newyork1.vip.townnews.com/montanakaimin.com/content/tncms/assets/v3/editorial/0/fd/0fd77ab2-1bba-11e7-8402-030be1181a37/58e7d090cf533.image.png) 
+
+* How you can use bots to keep up on news: 
+  * NYT, WSJ have messenger bots that send you morning updates or election updates. Can ask it direct news questions and it retrieves the info in your messenger. As you use a news bot more, it tailors news to fit your interest. It is a blend of AI and human interaction. Most pull from a database of answers constantly updated by humans.
+  
+ * Open Messenger, tap on the search bar, scroll down to see some bots you can install. Get some! 
+
+* How you can use bots to tell stories: polls, questions, can get reader feedback and tips, customer service and can create personalized feeds.
+
+* Building bots — Botlist.com 
+
 # HTML/CSS: Or, how do these things get published?
 1. Remember that .zip folder we downloaded at the beginning? Extact the folder called "FirstHTML" and put it somewhere easily accessible, like on your dekstop. 
 
@@ -130,13 +159,16 @@ Knightlab is a leading innovator in journalism technology, and makes a lot of op
 2.	What's in this file?
  * Heading stuff
  * <Head>
-   * explain the head section
-   * let's add a title. This is what shows up at the titel of the tab in your browser. in the space between <title> and </title>, write something like "My First HTML Page".
+   * Mostly meta data goes here, adn links to other sources of code you may need to reference. 
+   * Let's add a title. This is what shows up at the title of the tab in your browser. In the space between <title> and </title>, write something like "My First HTML Page".
+   
  * <body>
    * this is where all of the content that you see on a webpage goes. Right now it's blank. If you go back to the folder on your desktop and double click on index.html, it will open it in your browser. Nothing is here. That's ok. Let's add some stuff.
+   
  * Back in Sublime:
    * <h1>
    * <p>
+   
 * Save your document (file, save). Go back to your browser and refresh your "My First HTML Page".
 
 * Let's add more content and a little styling.
@@ -161,10 +193,10 @@ Knightlab is a leading innovator in journalism technology, and makes a lot of op
 
 ```
 
-* More 
-  * iFrame
+* More cool stuff:
+  * iFrames: For example, the timeline iframe code we generated earlier can be dropped into the body of an html document and will show up! 
   * CSS
-    * Linking in head
+    * Link to your stylesheet (called style.css) in the head of the document using "
     * styling an H1
     * Linking to another page
     
