@@ -3,3 +3,19 @@ Some digital journalism tips and tricks (including some learned at NICAR17) for 
 
 ![data](https://media.giphy.com/media/CFkeus3K7NXBS/giphy.gif) ![bagel](https://media.giphy.com/media/ORYgct7M6YynC/giphy.gif)
 
+# A little about us
+
+# Data journalism glossary
+## Terms to know, or at least pretent to know and reference in interviews
+
+1. term one
+  *term one def
+  
+2. term two
+  * term two def 
+  
+3. term two
+  * term three def 
+  
+
+
