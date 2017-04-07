@@ -4,6 +4,7 @@ Some digital journalism tips and tricks (including some learned at NICAR17) for 
 ![data](https://media.giphy.com/media/CFkeus3K7NXBS/giphy.gif) ![bagel](https://media.giphy.com/media/ORYgct7M6YynC/giphy.gif)
 
 # A little about us
+We are cooooool. 
 
 # Data journalism glossary
 Terms to know, or at least pretent to know and reference in interviews
@@ -16,8 +17,6 @@ Terms to know, or at least pretent to know and reference in interviews
   
 3. term two
   * term three def
-  
-  
   
 # So where do I find this "data"?
 Here's a few solid places. Bookmark these for sources for stories, or for story ideas! Look for outliers.
@@ -45,8 +44,14 @@ The File types PDF and Excel are often where the good data is.
 Kelsey will tell you how to scrape the web! 
 
 # Ok,so I have this data. What can I do with it?
+Infographics are cool and good. Why? Infographics make stories more believable, make them more shareable, and more digestible for audiences. How your story is presented online is everything. Here are some tools that reporters (or anyone) can use to make their stories better — no coding or design knowledge involved. Here's a few starter tools:
+
 ## Datawrapper
+Datawrapper notes from Kelsey's nicar talk 
+
 ## Knightlab tools
+Knightlab is a leading innovator in journalism technology, and makes some cool stuff. Check out all of it at (Knightlab's website)[https://knightlab.northwestern.edu/]
+
 ## So much more
  * [DataViz Catalogue](http://datavizcatalogue.com/) — can search by both the type of chart or by function of what you want to show. Then shows you websites and tools of how to make them! Nice. 
 
