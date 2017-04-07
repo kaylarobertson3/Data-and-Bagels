@@ -22,16 +22,16 @@ Terms to know, or at least pretent to know and reference in interviews
 # So where do I find this "data"?
 Here's a few solid places. Bookmark these for sources for stories, or for story ideas! Look for outliers.
 
-### Data.gov
+### [Data.gov](https://www.data.gov/)
 All of the U.S. government’s open data. Nice, easy to use website. If you’re writing a story about climate change, you can easily search by that + Montana or U.S. to see what kind of data you need. From there, you download. 
 
-### Census American Fact Finder
+### [Census American Fact Finder](https://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml)
 Basically all of the census data. The website is super dense and not super intuitive, but it’s a goldmine of census info, which is great because historically the census is super accurate, recurring by year so it’s reliable, and great for demographic-based stories (race, age, ect). 
 
-### National Data Repository 
+### [National Data Repository](https://en.wikipedia.org/wiki/National_Data_Repository)
 Wikipedia page of data hubs of different countries that are government funded / based. 
 
-### Google Public Data Explorer
+### [Google Public Data Explorer](https://www.google.com/publicdata/directory)
 Can help you visualize a dataset. Kind of like Google search, it searches open datasets. Doesn’t have everything and the search can be tricky. But it can quickly show you what a dataset has in it without you having to analyze it and make your own infographic. You can easily see if the dataset is worth downloading, etc. 
 
 ### General searching tips
