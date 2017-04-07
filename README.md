@@ -127,7 +127,7 @@ Knightlab is a leading innovator in journalism technology, and makes a lot of op
 
 * Bots: Short for “web robot.” An automated application that sends automated  tasks (scripts, messages or texts) over the internet. May be used with “chat apps” such as Facebook messenger or Slack.
 
-* Example: https://botlist.co/bots/filter?category=&platform=13&order=date&page=3
+* Example: [Botlist](https://botlist.co/bots/filter?category=&platform=13&order=date&page=3)
 
 * The goal is to create a friendly robot to interact with customers or readers in a way that empathizes with the human condition.
 “We think that people are going to start projecting their expectations of how human interactions work onto bots," he said. "Just like they do with pets. They know the cat can’t understand what they’re saying, but it’s almost like you can’t help yourself because you have an emotional connection with it. We think it’s going to be the same with bots,” Poncho CEO Sam Mandel.
@@ -181,11 +181,11 @@ Knightlab is a leading innovator in journalism technology, and makes a lot of op
 * Adding images:The img tag adds images onto the page. Alt text is important for accessiblity (readers that use a screen reader) and for navigation if your page has trouble loading. 
 
   * ```
-  <img scr="pic1.gif" alt="pic of data">
+  * <img scr="pic1.gif" alt="pic of data">
+  
   * <img src=”jschool.jpeg” alt=”University of Montana School of Journalism” height=”50” width=”50”>
   
-```
- ```  
+   ```  
 * Adding links
   * Under the image, create a hyperlink that goes to the J-school website using the <a href> tag. For example: 
 
